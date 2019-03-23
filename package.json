@@ -1,0 +1,14 @@
+{
+  "name": "manejo-archivos",
+  "version": "1.0.0",
+  "description": "curso node js tdea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas luemunozmo@unal.edu.co",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
