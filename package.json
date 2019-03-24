@@ -9,6 +9,12 @@
   "author": "Lucas luemunozmo@unal.edu.co",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.3",
     "yargs": "^13.2.2"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
   }
 }
